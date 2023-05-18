@@ -14,7 +14,7 @@ Vagas:
       - usos: Platane/snk@master
         Identificação: Cobra-GIF
         com:
-          github_user_name: Andersonafa
+          github_user_name: andersonafa
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - Usos: Crazy-Max/Ghaction-GitHub-pages@v2.1.3
